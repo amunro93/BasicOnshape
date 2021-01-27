@@ -41,14 +41,16 @@ For this assingment I was tasked with making a fork. I did a project like this l
 ### Image
 ![The Fork](images/Fork.jpg)
 
-### Evidince 
+### Evidence 
 [Fork](https://cvilleschools.onshape.com/documents/41c3d32005302046eb4411d8/w/4b17956c4a2c9ad933812241/e/10131a31bd23875b6038b602)
 
 ### Reflection 
 This project was simple and quick like the last. The instructions are not step by step anymore. It's making us think more of what we did in the past to apply it now. I didn't have any problems or issues while doing this assingment. 
 
 ## Tire
-### Description 
+
+### Description
+This assingment was the fourth step to completing my caster. The tire was pretty simple 
 ### Image
 ### Reflection 
 
@@ -57,3 +59,8 @@ This project was simple and quick like the last. The instructions are not step b
 ### Image
 ### Reflection 
 
+## Group Collaboration 
+### Description 
+### Image
+### Evidence 
+### Reflection
