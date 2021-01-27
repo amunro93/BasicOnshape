@@ -32,9 +32,12 @@ For this assingment I had to make a mount. I used the steps in Canvas to work on
 ### Evidence 
 [Mount](https://cvilleschools.onshape.com/documents/a4dd878735d83367e5cd03f4/w/612c5442af2664bcad290162/e/3dc37ab41c8a8945081dc2a5)
 ### Reflection 
+This assingment was pretty easy it was sort of like the base but shorter so I didn't have much trouble with it. This assingment gave me mor practice for the upcoming assingment which may be harder. 
 
 ## Fork 
+
 ### Description 
+For this assingment I was tasked with making a fork. I did a project like this last yearso it was pretty quick and easy, but for some parts that I didn't remember I had to go back to the instructions. I was also learned how to use the mirror tool on OnShape. 
 ### Image
 ### Reflection 
 
